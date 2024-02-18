@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'blAblablaZ' tr Ac Ze
+tr AZ | c e
