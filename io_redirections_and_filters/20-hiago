@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'blAblabla' | tr 'Ac' 'ze' 
+echo 'Chicago' | tr -d 'cC'
