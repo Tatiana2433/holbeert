@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'cAramel' | tr Ac [ze]
+tr AZ | tr ce
